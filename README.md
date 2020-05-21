@@ -80,11 +80,17 @@ from config import *
 
 ## Credits
 
-Developed by Ethan Nadzieja.
+Originally, developed by Ethan Nadzieja.
+
+Forked by Ricardo Ruiz.
 
 ## TODO
 
 This project is not designed to re-invent the wheel, therefore the library functionality will be limited in trading features.
+
+-  Add ability to obtain better(more upto date) data from other sources
+- Automatic trading (when market drops, etc)
+- Analysis tools 
 
 - Cash Only support
 - "Borrow" balance support
